@@ -21,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6596
     wikipedia: http://en.wikipedia.org/wiki/Edward_Moore
 description: Augustan Reprint Society, publication number 14
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16267#The-Gamester--1753-
 gutenberg_issued: '2005-07-12'
 gutenberg_type: Text
 identifiers:
