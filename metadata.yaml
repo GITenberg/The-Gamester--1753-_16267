@@ -1,0 +1,36 @@
+_repo: The-Gamester--1753-_16267
+_version: 0.1.0
+contributor:
+  commentators:
+  - agent_name: Peake, Charles H.
+    gutenberg_agent_id: '6587'
+    url: http://www.gutenberg.org/2009/agents/6587
+  - agent_name: Wikelund, Phillip R.
+    gutenberg_agent_id: '6588'
+    url: http://www.gutenberg.org/2009/agents/6588
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Moore, Edward
+    alias: Fitz-Adam, Adam
+    birthdate: 1712
+    deathdate: 1757
+    gutenberg_agent_id: '6596'
+    url: http://www.gutenberg.org/2009/agents/6596
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Moore
+description: Augustan Reprint Society, publication number 14
+gutenberg_issued: '2005-07-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16267'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English drama'
+title: The Gamester (1753)
+url: http://www.gutenberg.org/ebooks/16267
